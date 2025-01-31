@@ -14,10 +14,8 @@ A beautifully styled lyrics webpage that enhances the **emotion of the song "Per
 - **Hover animations & subtle rotations** for movement and engagement  
 - **Elegant fonts** (Playfair Display & Impact) to match the song’s mood  
 
-## 📷 Preview  
-![Project Screenshot](screenshot.png) *(Replace with an actual screenshot URL or file in your repo.)*  
 
 ## 🚀 How to Run  
 1. Clone this repository:  
    ```sh
-   git clone https://github.com/your-username/lyrically-styled-song.git
+   git clone https://github.com/Jeshan26/lyrically-styled-song.git
